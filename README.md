@@ -1,2 +1,0 @@
-# jakiesrepozytorium
-repozytorium na ipng
