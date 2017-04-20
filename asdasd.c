@@ -1,4 +1,5 @@
-#include<iostream.h>
+#include<iostream.h>   jakis randomowy tekst
+
 #include<stdlib.h>
 main()
 {
